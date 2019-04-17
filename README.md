@@ -1,2 +1,3 @@
 # budjetapp1
-a js budjet app
+
+A web app for managing our budjet using pure vanilla javascript.
